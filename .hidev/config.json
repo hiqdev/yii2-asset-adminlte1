@@ -7,7 +7,7 @@
         "license":      "BSD-3-Clause",
         "forum":        "https://forum.hiqdev.com/yii2",
         "language":     "PHP",
-        "keywords":     "adminlte2, asset, extension, yii2",
+        "keywords":     "adminlte, asset, extension, yii2",
         "year":         2015
     },
     "vendor": {
