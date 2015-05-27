@@ -5,7 +5,7 @@
  * @copyright   Copyright (c) 2015 HiQDev
  */
 
-namespace hipanel\assets\adminlte1;
+namespace hiqdev\assets\adminlte1;
 
 use yii\web\AssetBundle;
 
