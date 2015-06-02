@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 
 class AdminLteAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/hiqdev/yii2-asset-adminlte1/assets';
+    public $sourcePath = '@bower/adminlte';
 
     public $css = [
         'css/morris/morris.css',
